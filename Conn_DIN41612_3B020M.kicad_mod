@@ -1,4 +1,4 @@
-(module Conn_DIN41612_3B020M (layer F.Cu) (tedit 59F4CD18)
+(module Conn_DIN41612_3B020M (layer F.Cu) (tedit 59F5DCFA)
   (descr "DIN 41612 connector, family B/3, angled module part, 10 pins wide, full configuration")
   (tags "DIN 41512 IEC 60603 B/3 angled module")
   (fp_text reference REF** (at -5.08 1.27) (layer F.SilkS)
@@ -73,7 +73,7 @@
   (fp_text user "Board edge" (at 11.43 -7.3) (layer Cmts.User)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (model Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B020M.wrl
+  (model ${KISYS3DMOD}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B020M.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
