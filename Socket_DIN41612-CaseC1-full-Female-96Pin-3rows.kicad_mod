@@ -113,7 +113,7 @@
   (pad 21a thru_hole circle (at -11.43 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 22a thru_hole circle (at -13.97 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 23a thru_hole circle (at -16.51 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
-  (pad 24 thru_hole circle (at -19.05 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
+  (pad 24a thru_hole circle (at -19.05 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 25a thru_hole circle (at -21.59 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 26a thru_hole circle (at -24.13 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 27a thru_hole circle (at -26.67 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
@@ -124,4 +124,9 @@
   (pad 32a thru_hole circle (at -39.37 -2.54 180) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -44.9961 0) (size 2.90068 2.90068) (drill 2.90068) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 44.9961 0) (size 2.90068 2.90068) (drill 2.90068) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_IEC_DIN.3dshapes/Socket_DIN41612-CaseC1-full-Female-96Pin-3rows.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
